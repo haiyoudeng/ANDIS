@@ -56,6 +56,8 @@ package version 1.0
    BMC Bioinformatics (2019) 20:299
 
 6. Data sets used for building and testing ANDIS potential.
+   
    Download non-redundant PDB dataset (3519 experimental structures with Identity cutoff =20%, Resolution cutoff =2.0 angstroms, R-factor cutoff =0.25): https://github.com/haiyoudeng/PDBdataset
+   
    Download 175 CASP10-13 decoy sets: https://github.com/haiyoudeng/CASP10-13
    
